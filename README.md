@@ -3,22 +3,22 @@ Fill in the text below with your own answers to each question. Add your answers 
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Madeleine Hardt
 
 What do you prefer to be called?
-> ...
+> Maddy
 
 Why are you taking this course?
-> ...
+> CS major
 
 What are your concerns about this course?
-> ...
+> Staying on top of class work
 
 What topic in this course are you most excited to cover?
-> ...
+> Not sure yet
 
 Do you have any questions for me?
-> ...
+> Not yet
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
